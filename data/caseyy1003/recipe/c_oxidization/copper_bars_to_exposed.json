@@ -1,0 +1,13 @@
+{
+  "type": "create:filling",
+  "result": {
+    "id": "minecraft:exposed_copper_bars",
+    "count": 1
+  },
+  "ingredient": "minecraft:copper_bars",
+  "fluid_ingredient": {
+    "type": "fluid_stack",
+    "fluid": "minecraft:water",
+    "amount": 20250
+  }
+}

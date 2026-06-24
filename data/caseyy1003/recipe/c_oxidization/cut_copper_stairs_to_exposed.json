@@ -1,0 +1,13 @@
+{
+  "type": "create:filling",
+  "result": {
+    "id": "minecraft:exposed_cut_copper_stairs",
+    "count": 1
+  },
+  "ingredient": "minecraft:cut_copper_stairs",
+  "fluid_ingredient": {
+    "type": "fluid_stack",
+    "fluid": "minecraft:water",
+    "amount": 20250
+  }
+}
